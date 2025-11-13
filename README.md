@@ -1,1 +1,1 @@
-Otimizador de Criptomoedas com Otimização de Risco 
+Otimizador de Criptomoedas com Otimização de Risco. 
